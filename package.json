@@ -1,0 +1,25 @@
+{
+  "name": "github-perfiles",
+  "version": "1.0.0",
+  "description": "buscador de perfiles en github",
+  "main": "index.html",
+  "homepage":"http://polclau.github.io/github-perfiles",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-pages -d github-perfiles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polclau/github-perfiles.git"
+  },
+  "keywords": [
+    "javascript-api-async",
+    "await-html-css"
+  ],
+  "author": "Claudio Polo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polclau/github-perfiles/issues"
+  }
+  
+}
